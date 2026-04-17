@@ -75,7 +75,7 @@
 
 **你本地一次性依赖**
 
-在仓库根目录执行：
+需本机已安装 **Python** 环境，并通过下方命令安装 `requirements.txt` 中的对应库。在仓库根目录执行：
 
 ```bash
 pip install -r .cursor/skills/pdf-annual-report-to-md/requirements.txt
