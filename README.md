@@ -73,6 +73,16 @@
 - 依赖与命令见：`.cursor/skills/pdf-annual-report-to-md/SKILL.md`。  
 - 扫描版 PDF 需 OCR；文本层缺失时转换结果可能不可用。
 
+**你本地一次性依赖**
+
+在仓库根目录执行：
+
+```bash
+pip install -r .cursor/skills/pdf-annual-report-to-md/requirements.txt
+```
+
+之后引用 PDF 年报时，由 Agent 按 skill 调脚本即可；
+
 ---
 
 ## 致谢与说明
