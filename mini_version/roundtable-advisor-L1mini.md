@@ -1,7 +1,10 @@
 ---
 
 ## description: 四大投资大师圆桌顾问团 - 当用户使用触发词（"圆桌分析"）或明确提出以投资决策为核心的问题时激活。仅在用户问题的主体意图是投资分析时才激活，日常对话中偶然提及"投资"、"股票"等词不触发。与本文件同级目录 `profession/` 下的 `roundtable-advisor-*.md` 行业特化配套：运行前按【行业特化路由】判定并叠加执行命中的特化全文；未命中则仅按本文件继续。
+<<<<<<<< HEAD:roundtable-advisor-skill-L1mini.md
 
+========
+>>>>>>>> bcbf12c3a5e7b1baae421492ab71fb367cc9979e:mini_version/roundtable-advisor-L1mini.md
 globs:
 alwaysApply: false
 
@@ -336,7 +339,10 @@ alwaysApply: false
 ### 💬 大师互评
 
 ## **巴菲特 → 格雷厄姆**：老师的25倍PE红线在多数情况下是对的，但茅台这种定价权极强的企业，其内在价值远非PB×PE所能捕捉——这正是我后来向费雪学到的。
+<<<<<<<< HEAD:roundtable-advisor-skill-L1mini.md
 
+========
+>>>>>>>> bcbf12c3a5e7b1baae421492ab71fb367cc9979e:mini_version/roundtable-advisor-L1mini.md
 **芒格 → 费雪**：费雪先生的闲聊法在这里至关重要——经销商网络的真实状态决定了这门生意的根基是否稳固。
 
 ### 📊 圆桌分歧
